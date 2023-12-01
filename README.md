@@ -1,24 +1,18 @@
 # Word Game
 
-## Joy of React, Project I
+## Overview
 
-In this project, we'll recreate a popular online word game, Wordle:
+This project is about building the NYT Wordle game (https://www.nytimes.com/games/wordle/index.html) using React 18. Features in play include event listeners, form submission and validation. 
 
 ![Demo showing the finished product, our Wordle clone](docs/wordle-demo.gif)
 
 In Wordle, users have 6 attempts to guess a 5-letter word. You're helped along the way by ruling out letters that aren't in the word, and being told whether the correct letters are in the correct location or not.
 
-## Getting Started
+## Running the project
 
 This project is created with create-react-app. It's intended to be run locally, on your computer, using Node.js and NPM.
 
 If you're not sure how to run a local development server, or if you run into some trouble, check out the [“Local Development” instructions](https://courses.joshwcomeau.com/joy-of-react/project-wordle/03-dev-server). It includes all the info you need to know, including troubleshooting common issues.
-
-> **NOTE: This project is tricky!**
->
-> This project is meant to be challenging, because I believe that the best way to learn is to be challenged. Depending on your experience level, though, you may feel like it's unreasonably difficult.
->
-> This workshop is split into 5 exercises, and each exercise has a solution video. If you spend more than 10 minutes stuck on an exercise, I encourage you to **watch the solution.** If things are still unclear after that, please ask questions in the Discord community!
 
 ## Exercise 1: GuessInput
 
